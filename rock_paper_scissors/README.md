@@ -10,7 +10,7 @@ For example, given n = 2, your function should output the following:
 
 Your output should be a list of lists containing strings. Each inner list should have length equal to the input n.
 
-# Testing
+### Testing
 
 Run the test file by executing `python test_rps.py`.
 
